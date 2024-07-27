@@ -1,0 +1,2 @@
+- **Input**: `name=吴华文`
+- **Expected Output**: `{"match": "Huawen Wu 华文吴"}`
